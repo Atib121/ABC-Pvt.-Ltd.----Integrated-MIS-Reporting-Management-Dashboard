@@ -158,7 +158,7 @@ Integrated-MIS-Reporting/
 ├── README.md
 │
 ├── Excel/
-│   └── ABC_Integrated_MIS.xlsx
+│   └── (https://github.com/Atib121/ABC-Pvt.-Ltd.----Integrated-MIS-Reporting-Management-Dashboard/blob/main/Abc%20Manufacturing%20Ltd%20MIS%20Report.xlsx)
 │
 ├── Documentation/
-│   └── Integrated_MIS_Project_Documentation.pdf
+│   └──[Integrated_MIS_Project_Documentation.pdf] (https://github.com/Atib121/ABC-Pvt.-Ltd.----Integrated-MIS-Reporting-Management-Dashboard/blob/main/ABC%20pvt.%20Ltd.%20MIS%20Project%20Doc%20File.pdf)
